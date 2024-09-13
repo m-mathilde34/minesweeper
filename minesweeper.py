@@ -2,7 +2,7 @@ import sys
 import pygame
 
 
-class Minesweeper():
+class Minesweeper:
 
     def __init__(self):
         pygame.init()
